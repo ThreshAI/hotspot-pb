@@ -1,4 +1,4 @@
-module hotspot-pb
+module github.com/ThreshAI/hotspot-pb
 
 go 1.24
 
